@@ -52,7 +52,7 @@ export default function Footer({
               return <FooterLink key={index} route={route} text={text} />
             })}
             {/* Submit Issue in Github */}
-            <Link href="https://github.com/OnlyForward0613/Portfolio-29-6/issues" target="_blank" rel="noopener noreferrer">
+            <Link href="https://github.com/ChangeYourself0613/Portfolio-29-6/issues" target="_blank" rel="noopener noreferrer">
               <motion.p className="hover:text-black dark:hover:text-white w-fit" variants={popUp}>
                 Report an issue
               </motion.p>
@@ -108,7 +108,7 @@ export default function Footer({
               target="_blank"
               aria-label="Next.js"
               rel="noreferrer"
-              href="https://www.linkedin.com/in/davee-scott"
+              href="https://www.linkedin.com/in/daveescott0509"
               className="font-semibold hover:underline"
             >
               Davee Scott

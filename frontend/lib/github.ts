@@ -23,7 +23,7 @@ const tempData = {
   "site_admin": false,
   "name": "Davee Scott",
   "company": "SELISE DIGITAL PLATFORMS",
-  "blog": "https://www.linkedin.com/in/davee-scott",
+  "blog": "https://www.linkedin.com/in/daveescott0509",
   "location": "Dhaka, Bangladesh",
   "email": "daveescott0509@gmail.com",
   "hireable": true,
@@ -61,7 +61,7 @@ export function getOldStats() {
 export async function getGithubStarsAndForks() {
   // Fetch user's repositories from the GitHub API
   const res = await fetch(
-    "https://api.github.com/users/OnlyForward0613/repos?per_page=100",
+    "https://api.github.com/users/ChangeYourself0613/repos?per_page=100",
     // {
     //   headers: {
     //     Authorization: `Bearer ${GitHubAccessToken}`,

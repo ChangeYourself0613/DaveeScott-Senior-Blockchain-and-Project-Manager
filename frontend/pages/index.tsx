@@ -150,7 +150,7 @@ export default function Home() {
                 {/* LinkedIn */}
                 <div className="w-6 h-6 mt-2 mr-2">
                   <Link
-                    href={"https://www.linkedin.com/in/davee-scott"}
+                    href={"https://www.linkedin.com/in/daveescott0509"}
                     title="LinkedIn Profile"
                     target="_blank"
                     rel="noopener noreferrer"
@@ -161,7 +161,7 @@ export default function Home() {
 
                 {/* Github */}
                 <div className="w-6 h-6 mt-2 mr-2">
-                  <Link href={"https://github.com/OnlyForward0613"} title="GitHub Profile" target="_blank" rel="noopener noreferrer">
+                  <Link href={"https://github.com/ChangeYourself0613"} title="GitHub Profile" target="_blank" rel="noopener noreferrer">
                     <BsGithub className="w-full h-full transition-all hover:scale-110 active:scale-90" />
                   </Link>
                 </div>
@@ -169,7 +169,7 @@ export default function Home() {
                 {/* Twitter */}
                 <div className="w-6 h-6 mt-2 mr-2">
                   <Link
-                    href={"https://x.com/DaveeScott22"}
+                    href={"https://x.com/DaveeScott59"}
                     title="Twitter Profile"
                     target="_blank"
                     rel="noopener noreferrer"
@@ -181,7 +181,8 @@ export default function Home() {
                 {/* Facebook */}
                 <div className="w-6 h-6 mt-2 mr-2">
                   <Link
-                    href={"https://www.facebook.com/profile.php?id=61561446326312&mibextid=ZbWKwL"}
+                    // href={"https://www.facebook.com/profile.php?id=61561446326312&mibextid=ZbWKwL"}
+                    href={"https://www.facebook.com"}
                     title="Facebook Profile"
                     target="_blank"
                     rel="noopener noreferrer"

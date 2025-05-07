@@ -63,7 +63,7 @@
 //     // Others
 //     generator: 'Next.js',
 //     applicationName: 'daveescott0509',
-//     authors: [{ name: 'Davee Scott', url: 'https://www.linkedin.com/in/numanibnmazid/' }],
+//     authors: [{ name: 'Davee Scott', url: 'https://www.linkedin.com/in/daveescott0509' }],
 //     referrer: 'origin-when-cross-origin',
 //     viewport: {
 //       width: 'device-width',

@@ -7,12 +7,12 @@ const socialMedia: SocialPlatform[] = [
   {
     title: "LinkedIn",
     Icon: BsLinkedin,
-    url: "https://www.linkedin.com/in/davee-scott",
+    url: "https://www.linkedin.com/in/daveescott0509",
   },
   {
     title: "Github",
     Icon: BsGithub,
-    url: "https://github.com/OnlyForward0613",
+    url: "https://github.com/ChangeYourself0613",
   },
   {
     title: "Instagram",
@@ -22,7 +22,8 @@ const socialMedia: SocialPlatform[] = [
   {
     title: "Facebook",
     Icon: BsFacebook,
-    url: "https://www.facebook.com/profile.php?id=61561446326312&mibextid=ZbWKwL",
+    // url: "https://www.facebook.com/profile.php?id=61561446326312&mibextid=ZbWKwL",
+    url: "",
   },
   {
     title: "YouTube",

@@ -41,6 +41,6 @@ The **Contact** page offers a means to get in touch with me. Whether you're inte
 
 ## Get in Touch
 - Website: [daveescott0509.com](https://daveescott0509.com/)
-- GitHub: [github.com/OnlyForward0613](https://github.com/OnlyForward0613/)
+- GitHub: [github.com/ChangeYourself0613](https://github.com/ChangeYourself0613/)
 - Email: [daveescott0509@gmail.com](mailto:daveescott0509@gmail.com)
-- Linkedin: [Davee Scott](https://www.linkedin.com/in/davee-scott).
+- Linkedin: [Davee Scott](https://www.linkedin.com/in/daveescott0509).
